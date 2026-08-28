@@ -5,13 +5,14 @@
   <img src="https://img.shields.io/badge/Especialidade-Arquitetura%20de%20Sistemas-success?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Inovação-Engenharia%20de%20IA%20Multi--Agente-purple?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Infraestrutura-Soberana%20%26%20Self--Hosted-orange?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cripto-Bitcoin%20%26%20Soberania%20Digital-amber?style=for-the-badge&logo=bitcoin&logoColor=white" />
 </div>
 
 <br />
 
 > **Consultor de Tecnologia da Informação | Arquiteto de Soluções & Automação Comercial | Entusiasta Cripto & Soberania Digital**
 
-Com mais de **28 anos de experiência** no mercado de tecnologia e negócios, atuo no desenho, implantação e evolução de ecossistemas completos de software para empresas de atacado, varejo, distribuição e postos de combustíveis.
+Com mais de **28 anos de experiência** no mercado de tecnologia e negócios, atuo no desenho, implantação e evolução de ecossistemas completos de software para empresas de atacado, varejo, distribuição, postos de combustíveis e esteiras financeiras.
 
 Minha abordagem combina **visão estratégica de negócios**, **engenharia de sistemas robustos** e **esteiras modernas de inteligência artificial autônoma**.
 
@@ -32,15 +33,15 @@ mindmap
       APIs e Microsserviços
       PWA e Mobile Apps
       Sincronizadores de Dados
+    Cripto & Soberania
+      Custódia & BIP-39
+      Mempool & On-Chain
+      Tributação GCAP & IRPF
+      Dollar-Cost Averaging
     Engenharia de IA
       Pipelines Multi-Agentes
       Automação de Workflows
       Agentes Autônomos
-    Soberania e Cloud
-      Infraestrutura Linux VPS
-      Redes Mesh Tailscale
-      Git Forge Self-Hosted
-      Docker e Caddy Proxy
 ```
 
 ---
@@ -74,12 +75,18 @@ Plataforma especializada na estruturação de funis de prospecção, pipeline de
 
 Todas as ferramentas operam **100% no navegador (Client-Side)** com privacidade total e estão disponíveis no [**Hub Central de Ferramentas**](https://marcelotpbezerra.com.br/tools/):
 
-1. 📄 [**danfe-generator-pro**](https://github.com/marcelotpbezerra/danfe-generator-pro) • [🔗 Live Demo](https://marcelotpbezerra.com.br/tools/danfe/): Visualizador e gerador de DANFE (NF-e Modelo 55) e DACTE (CT-e Modelo 57) com código de barras Code-128, canhoto de recebimento e download de PDF oficial SEFAZ.
-2. 🔍 [**nfe-key-decoder**](https://github.com/marcelotpbezerra/nfe-key-decoder) • [🔗 Live Demo](https://marcelotpbezerra.com.br/tools/chave-nfe/): Decodificador das 44 posições de chaves fiscais (UF, Ano/Mês, CNPJ, Modelo, Série, Número, tpEmis) com cálculo e validação do Dígito Verificador (Módulo 11 SEFAZ).
-3. 🧮 [**retail-markup-simulator**](https://github.com/marcelotpbezerra/retail-markup-simulator) • [�� Live Demo](https://marcelotpbezerra.com.br/tools/markup/): Simulador de Markup multiplicador/divisor, formação estratégica de preço de venda no varejo, DRE unitária sintética e Ponto de Equilíbrio (Break-Even).
-4. 🛡️ [**nfe-xml-linter**](https://github.com/marcelotpbezerra/nfe-xml-linter) • [🔗 Live Demo](https://marcelotpbezerra.com.br/tools/xml-linter/): Auditor prévio de XMLs fiscais para detecção de causas de rejeição SEFAZ (Rejeição 531, divergências de totais, NCM/CFOP inválidos e caracteres proibidos).
-5. 📊 [**excel-header-normalizer**](https://github.com/marcelotpbezerra/excel-header-normalizer) • [🔗 Live Demo](https://marcelotpbezerra.com.br/tools/excel/): Padronizador universal de planilhas Excel/CSV para importação em ERPs e bancos de dados (snake_case, camelCase, scripts SQL e JSON).
-6. 📱 [**nextjs-pwa-starter**](https://github.com/marcelotpbezerra/nextjs-pwa-starter): Template canônico e pronto para produção de Progressive Web Apps (PWA) no ecossistema Next.js 15 com suporte a Android e iOS.
+### 🏢 Fiscal, ERP & Varejo
+1. 📄 [**danfe-generator-pro**](https://github.com/marcelotpbezerra/danfe-generator-pro) • [🔗 Live](https://marcelotpbezerra.com.br/tools/danfe/): Visualizador e gerador de DANFE (NF-e 55) e DACTE (CT-e 57) com código de barras Code-128, canhoto e PDF oficial SEFAZ.
+2. 🔍 [**nfe-key-decoder**](https://github.com/marcelotpbezerra/nfe-key-decoder) • [🔗 Live](https://marcelotpbezerra.com.br/tools/chave-nfe/): Decodificador das 44 posições de chaves fiscais com cálculo e validação do Dígito Verificador (Módulo 11 SEFAZ).
+3. 🧮 [**retail-markup-simulator**](https://github.com/marcelotpbezerra/retail-markup-simulator) • [🔗 Live](https://marcelotpbezerra.com.br/tools/markup/): Simulador de Markup multiplicador/divisor, formação de preço no varejo, DRE unitária e Ponto de Equilíbrio.
+4. 🛡️ [**nfe-xml-linter**](https://github.com/marcelotpbezerra/nfe-xml-linter) • [🔗 Live](https://marcelotpbezerra.com.br/tools/xml-linter/): Auditor prévio de XMLs fiscais para detecção de causas de rejeição SEFAZ (531, divergências, NCM/CFOP).
+5. 📊 [**excel-header-normalizer**](https://github.com/marcelotpbezerra/excel-header-normalizer) • [🔗 Live](https://marcelotpbezerra.com.br/tools/excel/): Padronizador universal de planilhas Excel/CSV para ERPs e bancos de dados (snake_case, SQL, JSON).
+
+### 🪙 Criptoativos & Soberania Digital
+6. 🧾 [**crypto-tax-calculator**](https://github.com/marcelotpbezerra/crypto-tax-calculator) • [🔗 Live](https://marcelotpbezerra.com.br/tools/cripto-irpf/): Calculadora de Isenção de R$ 35k/mês (Art. 35 Lei 8.981/95), Preço Médio Ponderado e apuração de DARF Cripto (4600 / GCAP).
+7. ⚡ [**sats-mempool-converter**](https://github.com/marcelotpbezerra/sats-mempool-converter) • [🔗 Live](https://marcelotpbezerra.com.br/tools/sats-converter/): Conversor universal de Satoshis para BRL/USD, monitor de taxas on-chain da Mempool e simulador de consolidação de UTXOs.
+8. 📈 [**btc-dca-simulator**](https://github.com/marcelotpbezerra/btc-dca-simulator) • [🔗 Live](https://marcelotpbezerra.com.br/tools/dca-bitcoin/): Simulador de aportes recorrentes (Dollar-Cost Averaging) em Bitcoin confrontado com CDI 100%, Poupança e Inflação IPCA.
+9. 🔑 [**bip39-seed-inspector**](https://github.com/marcelotpbezerra/bip39-seed-inspector) • [🔗 Live](https://marcelotpbezerra.com.br/tools/bip39-inspector/): Inspetor, validador de Checksum SHA-256 e autocompletador de seed phrases BIP-39 (12 e 24 palavras) 100% offline / Air-Gapped.
 
 ---
 
