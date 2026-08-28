@@ -70,8 +70,9 @@ Plataforma especializada na estruturação de funis de prospecção, pipeline de
 
 ---
 
-## 📦 Starter Kits & Open Source
+## 📦 Ferramentas Open Source & Starter Kits
 
+- 📊 [**excel-header-normalizer**](https://github.com/marcelotpbezerra/excel-header-normalizer): Ferramenta web de alta velocidade para padronização automática de cabeçalhos de planilhas Excel/CSV (snake_case, camelCase, PascalCase, SQL) com exportação direta para CSV, JSON e scripts SQL (`CREATE TABLE` + `INSERT`). Processamento 100% no cliente (privacidade absoluta).
 - 📱 [**nextjs-pwa-starter**](https://github.com/marcelotpbezerra/nextjs-pwa-starter): Template canônico e pronto para produção de Progressive Web Apps (PWA) no ecossistema Next.js 15, com prompts nativos de instalação para Android e iOS e cache offline.
 
 ---
@@ -80,11 +81,11 @@ Plataforma especializada na estruturação de funis de prospecção, pipeline de
 
 Adoto uma filosofia estrita de **Soberania Digital e Proteção de Ativos Intelectuais**:
 - Todo o código-fonte proprietário, regras fiscais e dados de clientes operam em **servidores privados auto-hospedados** com criptografia de ponta a ponta e redundância automatizada.
-- Mantenho este perfil no GitHub prioritariamente como **vitrine conceitual e institucional**.
+- Mantenho este perfil no GitHub prioritariamente como **vitrine conceitual, portfólio institucional e ferramentas open-source**.
 
 ---
 
-## 🌐 Conecte-se Comigo
+## �� Conecte-se Comigo
 
 - 🔗 **Website Oficial:** [marcelotpbezerra.com.br](https://marcelotpbezerra.com.br/)
 - 📱 **Linktree:** [linktr.ee/marcelotpbezerra](https://linktr.ee/marcelotpbezerra)
