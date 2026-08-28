@@ -70,10 +70,11 @@ Plataforma especializada na estruturação de funis de prospecção, pipeline de
 
 ---
 
-## 📦 Ferramentas Open Source & Starter Kits
+## 📦 Ferramentas Open Source & Utilitários Públicos
 
-- 📊 [**excel-header-normalizer**](https://github.com/marcelotpbezerra/excel-header-normalizer): Ferramenta web de alta velocidade para padronização automática de cabeçalhos de planilhas Excel/CSV (snake_case, camelCase, PascalCase, SQL) com exportação direta para CSV, JSON e scripts SQL (`CREATE TABLE` + `INSERT`). Processamento 100% no cliente (privacidade absoluta).
-- 📱 [**nextjs-pwa-starter**](https://github.com/marcelotpbezerra/nextjs-pwa-starter): Template canônico e pronto para produção de Progressive Web Apps (PWA) no ecossistema Next.js 15, com prompts nativos de instalação para Android e iOS e cache offline.
+- 📄 [**danfe-generator-pro**](https://github.com/marcelotpbezerra/danfe-generator-pro) • [🔗 Live Demo](https://marcelotpbezerra.com.br/danfe/): Visualizador e gerador de DANFE (NF-e - Modelo 55) e DACTE (CT-e - Modelo 57) com impressão A4, exportação para PDF e cópia estruturada de tributos. Processamento 100% no navegador (privacidade total).
+- 📊 [**excel-header-normalizer**](https://github.com/marcelotpbezerra/excel-header-normalizer): Ferramenta web para padronização de cabeçalhos de planilhas Excel/CSV com exportação direta para CSV, JSON e scripts SQL (`CREATE TABLE` + `INSERT`).
+- 📱 [**nextjs-pwa-starter**](https://github.com/marcelotpbezerra/nextjs-pwa-starter): Template canônico e pronto para produção de Progressive Web Apps (PWA) no ecossistema Next.js 15, com prompts nativos de instalação para Android e iOS.
 
 ---
 
@@ -85,7 +86,7 @@ Adoto uma filosofia estrita de **Soberania Digital e Proteção de Ativos Intele
 
 ---
 
-## �� Conecte-se Comigo
+## 🌐 Conecte-se Comigo
 
 - 🔗 **Website Oficial:** [marcelotpbezerra.com.br](https://marcelotpbezerra.com.br/)
 - 📱 **Linktree:** [linktr.ee/marcelotpbezerra](https://linktr.ee/marcelotpbezerra)
