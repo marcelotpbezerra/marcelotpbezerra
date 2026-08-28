@@ -70,6 +70,12 @@ Plataforma especializada na estruturação de funis de prospecção, pipeline de
 
 ---
 
+## 📦 Starter Kits & Open Source
+
+- 📱 [**nextjs-pwa-starter**](https://github.com/marcelotpbezerra/nextjs-pwa-starter): Template canônico e pronto para produção de Progressive Web Apps (PWA) no ecossistema Next.js 15, com prompts nativos de instalação para Android e iOS e cache offline.
+
+---
+
 ## 🔒 Soberania de Dados & Infraestrutura Privada
 
 Adoto uma filosofia estrita de **Soberania Digital e Proteção de Ativos Intelectuais**:
