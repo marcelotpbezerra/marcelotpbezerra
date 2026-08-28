@@ -45,7 +45,7 @@ mindmap
 
 ---
 
-## 🚀 Showcase Conceitual de Soluções
+## 🚀 Showcase Conceitual de Soluções Corporativas
 
 Abaixo estão alguns dos ecossistemas de software e soluções corporativas sob minha concepção e arquitetura:
 
@@ -70,11 +70,16 @@ Plataforma especializada na estruturação de funis de prospecção, pipeline de
 
 ---
 
-## 📦 Ferramentas Open Source & Utilitários Públicos
+## 🛠️ Central de Ferramentas Open Source & Utilitários Públicos
 
-- 📄 [**danfe-generator-pro**](https://github.com/marcelotpbezerra/danfe-generator-pro) • [🔗 Live Demo](https://marcelotpbezerra.com.br/danfe/): Visualizador e gerador de DANFE (NF-e - Modelo 55) e DACTE (CT-e - Modelo 57) com impressão A4, exportação para PDF e cópia estruturada de tributos. Processamento 100% no navegador (privacidade total).
-- 📊 [**excel-header-normalizer**](https://github.com/marcelotpbezerra/excel-header-normalizer): Ferramenta web para padronização de cabeçalhos de planilhas Excel/CSV com exportação direta para CSV, JSON e scripts SQL (`CREATE TABLE` + `INSERT`).
-- 📱 [**nextjs-pwa-starter**](https://github.com/marcelotpbezerra/nextjs-pwa-starter): Template canônico e pronto para produção de Progressive Web Apps (PWA) no ecossistema Next.js 15, com prompts nativos de instalação para Android e iOS.
+Todas as ferramentas operam **100% no navegador (Client-Side)** com privacidade total e estão disponíveis no [**Hub Central de Ferramentas**](https://marcelotpbezerra.com.br/tools/):
+
+1. 📄 [**danfe-generator-pro**](https://github.com/marcelotpbezerra/danfe-generator-pro) • [🔗 Live Demo](https://marcelotpbezerra.com.br/tools/danfe/): Visualizador e gerador de DANFE (NF-e Modelo 55) e DACTE (CT-e Modelo 57) com código de barras Code-128, canhoto de recebimento e download de PDF oficial SEFAZ.
+2. 🔍 [**nfe-key-decoder**](https://github.com/marcelotpbezerra/nfe-key-decoder) • [🔗 Live Demo](https://marcelotpbezerra.com.br/tools/chave-nfe/): Decodificador das 44 posições de chaves fiscais (UF, Ano/Mês, CNPJ, Modelo, Série, Número, tpEmis) com cálculo e validação do Dígito Verificador (Módulo 11 SEFAZ).
+3. 🧮 [**retail-markup-simulator**](https://github.com/marcelotpbezerra/retail-markup-simulator) • [�� Live Demo](https://marcelotpbezerra.com.br/tools/markup/): Simulador de Markup multiplicador/divisor, formação estratégica de preço de venda no varejo, DRE unitária sintética e Ponto de Equilíbrio (Break-Even).
+4. 🛡️ [**nfe-xml-linter**](https://github.com/marcelotpbezerra/nfe-xml-linter) • [🔗 Live Demo](https://marcelotpbezerra.com.br/tools/xml-linter/): Auditor prévio de XMLs fiscais para detecção de causas de rejeição SEFAZ (Rejeição 531, divergências de totais, NCM/CFOP inválidos e caracteres proibidos).
+5. 📊 [**excel-header-normalizer**](https://github.com/marcelotpbezerra/excel-header-normalizer) • [🔗 Live Demo](https://marcelotpbezerra.com.br/tools/excel/): Padronizador universal de planilhas Excel/CSV para importação em ERPs e bancos de dados (snake_case, camelCase, scripts SQL e JSON).
+6. 📱 [**nextjs-pwa-starter**](https://github.com/marcelotpbezerra/nextjs-pwa-starter): Template canônico e pronto para produção de Progressive Web Apps (PWA) no ecossistema Next.js 15 com suporte a Android e iOS.
 
 ---
 
@@ -89,6 +94,7 @@ Adoto uma filosofia estrita de **Soberania Digital e Proteção de Ativos Intele
 ## 🌐 Conecte-se Comigo
 
 - 🔗 **Website Oficial:** [marcelotpbezerra.com.br](https://marcelotpbezerra.com.br/)
+- 🛠️ **Hub de Ferramentas:** [marcelotpbezerra.com.br/tools/](https://marcelotpbezerra.com.br/tools/)
 - 📱 **Linktree:** [linktr.ee/marcelotpbezerra](https://linktr.ee/marcelotpbezerra)
 - 🛠️ **Git Soberano (Self-Hosted):** [git.marcelotpbezerra.com.br](https://git.marcelotpbezerra.com.br/marcelo)
 - 💼 **LinkedIn:** [linkedin.com/in/marcelotpbezerra](https://www.linkedin.com/in/marcelotpbezerra/)
